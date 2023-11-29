@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-## Intro
+## About me
 My name is Josh, I'm a 3rd year undergraduate student at Purdue University pursuing a BS in Mathematics & Computer Science (MACS). I'm an aspiring developer with a wide range of knowledge, skills, and interests that allow me to quickly learn new topics and identify creative solutions to unique problems. 
 
 ## Contact
